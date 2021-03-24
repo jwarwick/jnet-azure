@@ -1,0 +1,5 @@
+dns_domain = "coolname.com"
+cloudflare_email = "me@example.com"
+cloudflare_api_key = "xxxxxxxxxxxxxxxxxxxxxx"
+cloudflare_zone_id = "xxxxxxxxxxxxxxxxxxxxxx"
+
